@@ -1,5 +1,5 @@
-# unnamed
+# Ash
 
-The [unnamed] golfing language. Name suggestions welcome.
+The [Ash] golfing language.
 
-For documentation, check out the [wiki](https://github.com/RedwolfPrograms/unnamed/wiki)!
+For documentation, check out the [wiki](https://github.com/RedwolfPrograms/ash/wiki)!
